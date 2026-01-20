@@ -1,0 +1,7 @@
+train: ./data/train
+val: ./data/val
+
+
+nc: 1
+names: ['unhit'] 
+kpt_shape: [6,2] # keypoint shape (3: total 3 keypoints)
